@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChessTimer</string>
+    <string name="set_timer">Ustaw zegar</string>
+    <string name="reset_timer">Resetuj zegar</string>
+    <string name="set_timer_hint_dialog">Wpisz czas w minutach.</string>
+    <string name="cancel_timer_dialog">Anuluj</string>
+    <string name="winner">Wygrany</string>
+    <string name="loser">Przegrany</string>
+</resources>
